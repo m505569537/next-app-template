@@ -21,7 +21,7 @@
     "koa": "^2.11.0",
     "less": "^3.10.3",
     "less-loader": "^5.0.0",
-    "next": "^9.1.7",
+    "next": "^9.3.2",
     "next-transpile-modules": "^2.3.1",
     "null-loader": "^3.0.0",
     "react": "^16.12.0",
